@@ -6,7 +6,7 @@ I'm a doctoral researcher at Helmholtz Munich and at TUM under the supervision o
 
 
 ### Research Interests
-My main rearch goal is to use and develop methods from topological machine learning to study the shape of single cell data. In particular, I am keen to develop robust computational  methods to analyse omics data across multiple scales of distances.
+My main rearch goal is to use and develop methods from topological machine learning to study complex structures in biological data. In particular, I am keen to develop robust computational  methods to analyse single cell data across multiple scales of distances.
 
 [//]: <> (In terms of mathematics, I'm keen to explore topological data analysis in particular persistent homology and metric space magnitude.)
 [//]: <> (In terms of ML, I am In terms of statistics, I'd excited about topics such as uncertainty estimation, non-parametric statistics and spatial data analysis.)
