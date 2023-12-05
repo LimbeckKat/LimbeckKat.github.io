@@ -14,7 +14,6 @@ R. Andreeva, **K. Limbeck**, B. Rieck<sup>‡</sup>, and R. Sarkar<sup>‡</sup>
 
 ### Activities
 
-* **Magnitude 2023.** Osaka University. Contributed Talk. 4-8 December 2023
 * **TDA Week 2023.** Kyoto University. Poster Presentation. 31 July - 4 August 2023
 * **Young Topologist Meeting 2023.** EPFL, Lausanne. Contributed Talk. 24-28 July 2023
 * **Women in Computational Topology 3.** EPFL, Lausanne. Workshop. 17-21 July 2023
