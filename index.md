@@ -14,7 +14,7 @@ R. Andreeva, **K. Limbeck**, B. Rieck<sup>‡</sup>, and R. Sarkar<sup>‡</sup>
 
 ### Activities
 
-* **SMB 2024.** Konkuk University. Invited Talk at Minisymposium on "Geometry, topology, and physics-informed approaches for cancer biology". 1-5 July 20024
+* **SMB 2024.** Konkuk University. Invited Talk at Minisymposium on "Geometry, topology, and physics-informed approaches for cancer biology". 1-5 July 2024
 * **TDA Week 2023.** Kyoto University. Poster Presentation. 31 July - 4 August 2023
 * **Young Topologist Meeting 2023.** EPFL, Lausanne. Contributed Talk. 24-28 July 2023
 * **Women in Computational Topology 3.** EPFL, Lausanne. Workshop. 17-21 July 2023
