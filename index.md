@@ -8,8 +8,8 @@ My main research goal is to use topological machine learning and geometric stati
 
 ### Research Interests
 🍩 Geometric and Topological Machine Learning <br>
-:mag: Metric Space Magnitude <br>
-:dna: Computational Biology
+🔍 Metric Space Magnitude <br>
+🧬 Computational Biology
 
 
 ### Publications
@@ -20,7 +20,8 @@ My main research goal is to use topological machine learning and geometric stati
 R. Andreeva, **K. Limbeck**, B. Rieck<sup>‡</sup>, and R. Sarkar<sup>‡</sup>: [Metric Space Magnitude and Generalisation in Neural Networks](https://arxiv.org/abs/2305.05611), Accepted at TAG in Machine Learning at ICML, 2023
 
 ### Activities
-* **NeurIPS 2024.** Vancouver Convention Center. Poster Presentation. 9-15 December 2024
+* **NeurIPS 2024.** Vancouver Convention Center. [Poster Presentation](https://neurips.cc/virtual/2024/poster/94120). 9-15 December 2024
+* **BIMSA Topology Seminar.** Online. [Invited Talk](https://bimsa.net/talk.html?id=41849). 21 November 2024
 * **Meeting of the Society for Mathematical Biology (SMB) 2024.** Konkuk University. Invited Talk. 1-5 July 2024
 * **Munich Health Foundation Model Symposium 2024.** Helmholtz Munich. Contributed Talk. 10 April 2024
 * **TDA Week 2023.** Kyoto University. Poster Presentation. 31 July - 4 August 2023
@@ -29,7 +30,7 @@ R. Andreeva, **K. Limbeck**, B. Rieck<sup>‡</sup>, and R. Sarkar<sup>‡</sup>
 
 [//]: <> (### Contact)
 ### Contact
-:computer: [GitHub](https://github.com/LimbeckKat)<br>
-:page_facing_up: [Google Scholar](https://scholar.google.com/citations?user=76ZpmpIAAAAJ&hl=en) <br>
-:blue_book: [LinkedIn](https://www.linkedin.com/in/katharina-limbeck/) <br>
-:email: katharina [dot] limbeck [at] helmholtz-munich [dot] de
+💻 [GitHub](https://github.com/LimbeckKat)<br>
+📄 [Google Scholar](https://scholar.google.com/citations?user=76ZpmpIAAAAJ&hl=en) <br>
+📘 [LinkedIn](https://www.linkedin.com/in/katharina-limbeck/) <br>
+📧 katharina [dot] limbeck [at] helmholtz-munich [dot] de
