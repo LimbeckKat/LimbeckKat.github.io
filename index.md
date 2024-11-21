@@ -21,6 +21,7 @@ R. Andreeva, **K. Limbeck**, B. Rieck<sup>‡</sup>, and R. Sarkar<sup>‡</sup>
 
 ### Activities
 * **NeurIPS 2024.** Vancouver Convention Center. [Poster Presentation](https://neurips.cc/virtual/2024/poster/94120). 9-15 December 2024
+* **Doctoral Seminar** at Departamento de Matemática Aplicada Universidad de Sevilla. Online. [Invited Talk.](https://www.imus.us.es/www/#actividad/3226) 28 November 2024
 * **BIMSA Topology Seminar.** Online. [Invited Talk](https://bimsa.net/talk.html?id=41849). 21 November 2024
 * **Meeting of the Society for Mathematical Biology (SMB) 2024.** Konkuk University. Invited Talk. 1-5 July 2024
 * **Munich Health Foundation Model Symposium 2024.** Helmholtz Munich. Contributed Talk. 10 April 2024
