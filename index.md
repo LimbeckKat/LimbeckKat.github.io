@@ -24,6 +24,7 @@ R. Andreeva, **K. Limbeck**, B. Rieck<sup>‡</sup>, and R. Sarkar<sup>‡</sup>
 * **Doctoral Seminar** at Departamento de Matemática Aplicada Universidad de Sevilla. Online. [Invited Talk.](https://www.imus.us.es/www/#actividad/3226) 28 November 2024
 * **BIMSA Topology Seminar.** Online. [Invited Talk](https://bimsa.net/talk.html?id=41849). 21 November 2024
 * **Meeting of the Society for Mathematical Biology (SMB) 2024.** Konkuk University. Invited Talk. 1-5 July 2024
+* **Magnitude Workshop.** ETH Zürich. Contributed Talk. 25 April 2024
 * **Munich Health Foundation Model Symposium 2024.** Helmholtz Munich. Contributed Talk. 10 April 2024
 * **TDA Week 2023.** Kyoto University. Poster Presentation. 31 July - 4 August 2023
 * **Young Topologist Meeting 2023.** EPFL, Lausanne. Contributed Talk. 24-28 July 2023
