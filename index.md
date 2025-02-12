@@ -20,6 +20,7 @@ My main research goal is to use topological machine learning and geometric stati
 R. Andreeva, **K. Limbeck**, B. Rieck<sup>‡</sup>, and R. Sarkar<sup>‡</sup>: [Metric Space Magnitude and Generalisation in Neural Networks](https://arxiv.org/abs/2305.05611), Accepted at TAG in Machine Learning at ICML, 2023
 
 ### Activities
+* **AGATE Seminar.** Edinburgh. [Invited Talk](https://agatedinburgh.github.io/). 12 March 2025
 * **NeurIPS 2024.** Vancouver Convention Center. [Poster Presentation](https://neurips.cc/virtual/2024/poster/94120). 9-15 December 2024
 * **Doctoral Seminar** at Departamento de Matemática Aplicada Universidad de Sevilla. Online. [Invited Talk.](https://www.imus.us.es/www/#actividad/3226) 28 November 2024
 * **BIMSA Topology Seminar.** Online. [Invited Talk](https://bimsa.net/talk.html?id=41849). 21 November 2024
