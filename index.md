@@ -30,6 +30,7 @@ R. Andreeva, **K. Limbeck**, B. Rieck<sup>‡</sup>, and R. Sarkar<sup>‡</sup>
 * **TDA Week 2023.** Kyoto University. Poster Presentation. 31 July - 4 August 2023
 * **Young Topologist Meeting 2023.** EPFL, Lausanne. Contributed Talk. 24-28 July 2023
 * **Women in Computational Topology 3.** EPFL, Lausanne. Workshop. 17-21 July 2023
+* **LMS Women in Mathematics Day 2021.** University of Plymouth. [Poster Presentation](https://web.socem.plymouth.ac.uk/wim/posters/UG%2003%20-%20Katharina_Limbeck.pdf). 24 March 2021
 
 [//]: <> (### Contact)
 ### Contact
