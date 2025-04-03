@@ -9,6 +9,7 @@ My main research goal is to use topological machine learning and geometric stati
 ### Research Interests
 🍩 Geometric and Topological Machine Learning <br>
 🔍 Metric Space Magnitude <br>
+🔮 Statistical Methodology <br>
 🧬 Computational Biology
 
 
