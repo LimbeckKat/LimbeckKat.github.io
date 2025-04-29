@@ -1,7 +1,7 @@
 # Katharina Limbeck
 
 ### About
-I'm a doctoral researcher at Helmholtz Munich and at TUM under the supervision of [Bastian Rieck](https://bastian.rieck.me/) and [Fabian Theis](https://www.professoren.tum.de/en/theis-fabian). I am a member of [AIDOS Lab](https://aidos.group/) researching topological and geometric machine learning and [Theis Lab](https://github.com/theislab) researching machine learning in single cell omics. My PhD is also part of the Munich School for Data Science ([MUDS](https://www.mu-ds.de/)) graduate school.
+I'm a doctoral researcher at Helmholtz Munich and at TUM under the supervision of [Bastian Rieck](https://bastian.rieck.me/). I am a member of [AIDOS Lab](https://aidos.group/) researching topological and geometric machine learning and [Theis Lab](https://github.com/theislab) researching machine learning in single cell omics. My PhD is also part of the Munich School for Data Science ([MUDS](https://www.mu-ds.de/)) graduate school.
 
 [//]: <> (### Research Interests)
 My main research goal is to use topological machine learning and geometric statistics to study complex structures in data. In particular, I am keen to develop robust computational methods to analyse biological and single cell data across multiple scales of distances. At the same time, my work aims to advance our understanding of the mathematical foundations of deep learning using geometry and topology. I am especially interested in applications of the [magnitude of metric spaces](https://github.com/aidos-lab/magnipy) to machine learning.
@@ -21,6 +21,7 @@ My main research goal is to use topological machine learning and geometric stati
 R. Andreeva, **K. Limbeck**, B. Rieck<sup>‡</sup>, and R. Sarkar<sup>‡</sup>: [Metric Space Magnitude and Generalisation in Neural Networks](https://arxiv.org/abs/2305.05611), Proceedings of the 2nd Annual Workshop on Topology, Algebra, and Geometry in Machine Learning (TAG-ML), Number 221, pp. 242–253, 2023
 
 ### Activities
+* **Research Stay at Mila - Quebec AI Institute.** Montréal.[Research Stay](https://mila.quebec/en/directory/katharina-limbeck). April-May 2025
 * **AGATE Seminar.** Edinburgh. [Invited Talk](https://agatedinburgh.github.io/). 12 March 2025
 * **NeurIPS 2024.** Vancouver Convention Center. [Poster Presentation](https://neurips.cc/virtual/2024/poster/94120). 9-15 December 2024
 * **Doctoral Seminar** at Departamento de Matemática Aplicada Universidad de Sevilla. Online. [Invited Talk.](https://www.imus.us.es/www/#actividad/3226) 28 November 2024
