@@ -21,7 +21,7 @@ My main research goal is to use topological machine learning and geometric stati
 R. Andreeva, **K. Limbeck**, B. Rieck<sup>‡</sup>, and R. Sarkar<sup>‡</sup>: [Metric Space Magnitude and Generalisation in Neural Networks](https://arxiv.org/abs/2305.05611), Proceedings of the 2nd Annual Workshop on Topology, Algebra, and Geometry in Machine Learning (TAG-ML), Number 221, pp. 242–253, 2023
 
 ### Activities
-* **GSP - Graph Signal Processing Workshop 2025.** Montréal. Workshop. 14-16 May 2025
+* **Graph Signal Processing Workshop (GSP) 2025.** Montréal. Workshop. 14-16 May 2025
 * **Research Stay at Mila - Quebec AI Institute.** Montréal. [Research Stay](https://mila.quebec/en/directory/katharina-limbeck). April-May 2025
 * **AGATE Seminar.** Edinburgh. [Invited Talk](https://agatedinburgh.github.io/). 12 March 2025
 * **NeurIPS 2024.** Vancouver Convention Center. [Poster Presentation](https://neurips.cc/virtual/2024/poster/94120). 9-15 December 2024
