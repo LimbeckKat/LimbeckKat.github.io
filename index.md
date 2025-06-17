@@ -22,7 +22,7 @@ R. Andreeva, **K. Limbeck**, B. Rieck<sup>‡</sup>, and R. Sarkar<sup>‡</sup>
 
 ### Activities
 * **Graph Signal Processing Workshop (GSP) 2025.** Montréal. Workshop. 14-16 May 2025
-* **Research Stay at Mila - Quebec AI Institute.** Montréal. [Research Stay](https://mila.quebec/en/directory/katharina-limbeck). April-May 2025
+* **Research Stay at Mila - Quebec AI Institute.** Montréal. Research Stay. April-May 2025
 * **AGATE Seminar.** Edinburgh. [Invited Talk](https://agatedinburgh.github.io/). 12 March 2025
 * **NeurIPS 2024.** Vancouver Convention Center. [Poster Presentation](https://neurips.cc/virtual/2024/poster/94120). 9-15 December 2024
 * **Doctoral Seminar** at Departamento de Matemática Aplicada Universidad de Sevilla. Online. [Invited Talk.](https://www.imus.us.es/www/#actividad/3226) 28 November 2024
