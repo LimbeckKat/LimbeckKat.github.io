@@ -14,6 +14,9 @@ My main research goal is to use topological machine learning and geometric stati
 
 
 ### Publications
+
+**K. Limbeck**<sup>†</sup>, L. Mezrag<sup>†</sup>, G. Wolf<sup>‡</sup>, and B. Rieck<sup>‡</sup>: [Geometry-Aware Edge Pooling for Graph Neural Networks](https://mlg-europe.github.io/2025/#accepted), ECML PKDD Workshop on Mining and Learning with Graphs, 2025
+
 **K. Limbeck**<sup>†</sup>, L. Mezrag<sup>†</sup>, G. Wolf<sup>‡</sup>, and B. Rieck<sup>‡</sup>: [Geometry-Aware Edge Pooling for Graph Neural Networks](https://arxiv.org/abs/2506.11700), Preprint, 2025
 
 **K. Limbeck**, R. Andreeva, R. Sarkar, and B. Rieck: [Metric Space Magnitude for Evaluating the Diversity of Latent Representations](https://arxiv.org/abs/2311.16054), Advances in Neural Information Processing Systems, Volume 37, pp. 123911–123953, 2024
@@ -23,6 +26,7 @@ My main research goal is to use topological machine learning and geometric stati
 R. Andreeva, **K. Limbeck**, B. Rieck<sup>‡</sup>, and R. Sarkar<sup>‡</sup>: [Metric Space Magnitude and Generalisation in Neural Networks](https://arxiv.org/abs/2305.05611), Proceedings of the 2nd Annual Workshop on Topology, Algebra, and Geometry in Machine Learning (TAG-ML), Number 221, pp. 242–253, 2023
 
 ### Activities
+* **ECML PKDD Workshop on Mining and Learning with Graphs.** Porto. [Contributed Talk and Poster Presentation](https://mlg-europe.github.io/2025/#accepted). 15 September 2025
 * **Graph Signal Processing Workshop (GSP) 2025.** Montréal. Workshop. 14-16 May 2025
 * **Research Stay at Mila - Quebec AI Institute.** Montréal. Research Stay. April-May 2025
 * **AGATE Seminar.** Edinburgh. [Invited Talk](https://agatedinburgh.github.io/). 12 March 2025
@@ -30,7 +34,7 @@ R. Andreeva, **K. Limbeck**, B. Rieck<sup>‡</sup>, and R. Sarkar<sup>‡</sup>
 * **Doctoral Seminar** at Departamento de Matemática Aplicada Universidad de Sevilla. Online. [Invited Talk.](https://www.imus.us.es/www/#actividad/3226) 28 November 2024
 * **BIMSA Topology Seminar.** Online. [Invited Talk](https://bimsa.net/talk.html?id=41849). 21 November 2024
 * **Meeting of the Society for Mathematical Biology (SMB) 2024.** Konkuk University. Invited Talk. 1-5 July 2024
-* **Magnitude Workshop.** ETH Zürich. Contributed Talk. 25 April 2024
+* **Magnitude Workshop.** ETH Zürich. [Contributed Talk](https://people.math.ethz.ch/~skalisnik/magnitude). 25 April 2024
 * **Munich Health Foundation Model Symposium 2024.** Helmholtz Munich. Contributed Talk. 10 April 2024
 * **Magnitude 2023**. Osaka University. [Slides](https://sites.google.com/view/magnitude2023/slides). 8 December 2023
 * **TDA Week 2023.** Kyoto University. Poster Presentation. 31 July - 4 August 2023
