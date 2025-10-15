@@ -15,9 +15,9 @@ My main research goal is to use topological machine learning and geometric stati
 
 ### Publications
 
-**K. Limbeck**<sup>†</sup>, L. Mezrag<sup>†</sup>, G. Wolf<sup>‡</sup>, and B. Rieck<sup>‡</sup>: [Geometry-Aware Edge Pooling for Graph Neural Networks](https://mlg-europe.github.io/2025/#accepted), ECML PKDD Workshop on Mining and Learning with Graphs, 2025
+**K. Limbeck**<sup>†</sup>, L. Mezrag<sup>†</sup>, G. Wolf<sup>‡</sup>, and B. Rieck<sup>‡</sup>: [Geometry-Aware Edge Pooling for Graph Neural Networks](https://arxiv.org/abs/2506.11700), Advances in Neural Information Processing Systems, Volume 38, 2025 (in press)
 
-**K. Limbeck**<sup>†</sup>, L. Mezrag<sup>†</sup>, G. Wolf<sup>‡</sup>, and B. Rieck<sup>‡</sup>: [Geometry-Aware Edge Pooling for Graph Neural Networks](https://arxiv.org/abs/2506.11700), Preprint, 2025
+**K. Limbeck**<sup>†</sup>, L. Mezrag<sup>†</sup>, G. Wolf<sup>‡</sup>, and B. Rieck<sup>‡</sup>: [Geometry-Aware Edge Pooling for Graph Neural Networks](https://mlg-europe.github.io/2025/#accepted), ECML PKDD Workshop on Mining and Learning with Graphs, 2025
 
 **K. Limbeck**, R. Andreeva, R. Sarkar, and B. Rieck: [Metric Space Magnitude for Evaluating the Diversity of Latent Representations](https://arxiv.org/abs/2311.16054), Advances in Neural Information Processing Systems, Volume 37, pp. 123911–123953, 2024
 
