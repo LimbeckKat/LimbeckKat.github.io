@@ -35,7 +35,7 @@ R. Andreeva, **K. Limbeck**, B. Rieck<sup>‡</sup>, and R. Sarkar<sup>‡</sup>
 * **Doctoral Seminar** at Departamento de Matemática Aplicada Universidad de Sevilla. Online. [Invited Talk.](https://www.imus.us.es/www/#actividad/3226) 28 November 2024
 * **BIMSA Topology Seminar.** Online. [Invited Talk](https://bimsa.net/talk.html?id=41849). 21 November 2024
 * **Meeting of the Society for Mathematical Biology (SMB) 2024.** Konkuk University. Invited Talk. 1-5 July 2024
-* **Magnitude Workshop.** ETH Zürich. [Contributed Talk](https://people.math.ethz.ch/~skalisnik/magnitude). 25 April 2024
+* **Magnitude Workshop.** ETH Zürich. [Invited Talk](https://people.math.ethz.ch/~skalisnik/magnitude). 25 April 2024
 * **Munich Health Foundation Model Symposium 2024.** Helmholtz Munich. Contributed Talk. 10 April 2024
 * **Magnitude 2023**. Osaka University. [Slides](https://sites.google.com/view/magnitude2023/slides). 8 December 2023
 * **TDA Week 2023.** Kyoto University. Poster Presentation. 31 July - 4 August 2023
@@ -48,4 +48,5 @@ R. Andreeva, **K. Limbeck**, B. Rieck<sup>‡</sup>, and R. Sarkar<sup>‡</sup>
 💻 [GitHub](https://github.com/LimbeckKat)<br>
 📄 [Google Scholar](https://scholar.google.com/citations?user=76ZpmpIAAAAJ&hl=en) <br>
 📘 [LinkedIn](https://www.linkedin.com/in/katharina-limbeck/) <br>
+ℹ️ [CV](https://github.com/LimbeckKat/LimbeckKat.github.io/raw/3e70c245f2daf908a8a6a4a81e3050106be3bca5/Katharina_Limbeck_CV.pdf) <br>
 📧 katharina [dot] limbeck [at] helmholtz-munich [dot] de
