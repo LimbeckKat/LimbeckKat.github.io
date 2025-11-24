@@ -27,7 +27,8 @@ R. Andreeva, **K. Limbeck**, B. Rieck<sup>‡</sup>, and R. Sarkar<sup>‡</sup>
 
 ### Activities
 * **NeurIPS 2025.** San Diego Convention Center. [Poster Presentation](https://neurips.cc/virtual/2025/loc/san-diego/poster/117100). 2-7 December 2025
-* **ECML PKDD Workshop on Mining and Learning with Graphs.** Porto. [Contributed Talk and Poster Presentation](https://mlg-europe.github.io/2025/#accepted). 15 September 2025
+* **Graph Learning on Wednesdays (GLOW)**. Online. [Invited Talk](https://sites.google.com/view/graph-learning-on-weds/events). 26 November 2025
+* **ECML PKDD Workshop on Mining and Learning with Graphs (MLG) 2025.** Porto. [Contributed Talk and Poster Presentation](https://mlg-europe.github.io/2025/#accepted). 15 September 2025
 * **Graph Signal Processing Workshop (GSP) 2025.** Montréal. Workshop. 14-16 May 2025
 * **Research Stay at Mila - Quebec AI Institute.** Montréal. Research Stay. April-May 2025
 * **AGATE Seminar.** Edinburgh. [Invited Talk](https://agatedinburgh.github.io/). 12 March 2025
