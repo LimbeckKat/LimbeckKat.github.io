@@ -12,8 +12,9 @@ My main research goal is to use topological machine learning and geometric stati
 🔮 Statistical Methodology <br>
 🧬 Computational Biology
 
-
 ### Publications
+
+**K. Limbeck**, N. Häusermann, M. Carrasco, G. Wolf<sup>‡</sup>, B. Rieck<sup>‡</sup>: [Diversity Curves for Graph Representation Learning](https://arxiv.org/abs/2605.06466), Preprint, 2026
 
 **K. Limbeck**<sup>†</sup>, L. Mezrag<sup>†</sup>, G. Wolf<sup>‡</sup>, and B. Rieck<sup>‡</sup>: [Geometry-Aware Edge Pooling for Graph Neural Networks](https://arxiv.org/abs/2506.11700), Advances in Neural Information Processing Systems, Volume 38, 2025 (in press)
 
@@ -26,8 +27,10 @@ My main research goal is to use topological machine learning and geometric stati
 R. Andreeva, **K. Limbeck**, B. Rieck<sup>‡</sup>, and R. Sarkar<sup>‡</sup>: [Metric Space Magnitude and Generalisation in Neural Networks](https://arxiv.org/abs/2305.05611), Proceedings of the 2nd Annual Workshop on Topology, Algebra, and Geometry in Machine Learning (TAG-ML), Number 221, pp. 242–253, 2023
 
 ### Activities
+* **Helmholtz AI Conference 2026.** Munich. [Poster Presentation](https://www.conftool.pro/haicon26/sessions.php). 8-11 June 2026
+* **Munich School for Data Science (MUDS) Seminar.** Munich. [Contributed Talk](https://www.mu-ds.de/). 29 April 2026
 * **NeurIPS 2025.** San Diego Convention Center. [Poster Presentation](https://neurips.cc/virtual/2025/loc/san-diego/poster/117100). 2-7 December 2025
-* **Graph Learning on Wednesdays (GLOW)**. Online. [Invited Talk](https://sites.google.com/view/graph-learning-on-weds/events). 26 November 2025
+* **Graph Learning on Wednesdays (GLOW).** Online. [Invited Talk](https://sites.google.com/view/graph-learning-on-weds/events). 26 November 2025
 * **ECML PKDD Workshop on Mining and Learning with Graphs (MLG) 2025.** Porto. [Contributed Talk and Poster Presentation](https://mlg-europe.github.io/2025/#accepted). 15 September 2025
 * **Graph Signal Processing Workshop (GSP) 2025.** Montréal. Workshop. 14-16 May 2025
 * **Research Stay at Mila - Quebec AI Institute.** Montréal. Research Stay. April-May 2025
