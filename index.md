@@ -18,7 +18,7 @@ My main research goal is to use topological machine learning and geometric stati
 
 **K. Limbeck**, and B. Rieck: [Detecting Spatial Dependence in Transcriptomics Data using Vectorised Persistence Diagrams](https://arxiv.org/abs/2409.03575), Research in Computational Topology 3, Association for Women in Mathematics Springer Series, Springer Nature, 2026 (in press)
 
-**K. Limbeck**<sup>†</sup>, L. Mezrag<sup>†</sup>, G. Wolf<sup>‡</sup>, and B. Rieck<sup>‡</sup>: [Geometry-Aware Edge Pooling for Graph Neural Networks](https://arxiv.org/abs/2506.11700), Advances in Neural Information Processing Systems, Volume 38, pp. 157770--157808
+**K. Limbeck**<sup>†</sup>, L. Mezrag<sup>†</sup>, G. Wolf<sup>‡</sup>, and B. Rieck<sup>‡</sup>: [Geometry-Aware Edge Pooling for Graph Neural Networks](https://arxiv.org/abs/2506.11700), Advances in Neural Information Processing Systems, Volume 38, pp. 157770--157808, 2025
 
 **K. Limbeck**<sup>†</sup>, L. Mezrag<sup>†</sup>, G. Wolf<sup>‡</sup>, and B. Rieck<sup>‡</sup>: [Geometry-Aware Edge Pooling for Graph Neural Networks](https://mlg-europe.github.io/2025/#accepted), ECML PKDD Workshop on Mining and Learning with Graphs, 2025
 
