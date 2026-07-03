@@ -27,7 +27,7 @@ My main research goal is to use topological machine learning and geometric stati
 R. Andreeva, **K. Limbeck**, B. Rieck<sup>‡</sup>, and R. Sarkar<sup>‡</sup>: [Metric Space Magnitude and Generalisation in Neural Networks](https://arxiv.org/abs/2305.05611), Proceedings of the 2nd Annual Workshop on Topology, Algebra, and Geometry in Machine Learning (TAG-ML), Number 221, pp. 242–253, 2023
 
 ### Activities
-* **Symposium on Geometry Processing 2026.** Bern. [Poster Presentation](https://sgp26.org/). 29 June - 3 July 2026
+* **Symposium on Geometry Processing 2026.** Bern. [Poster Presentation](https://diglib.eg.org/items/96867289-7f8b-4491-9583-6210c1ab8184). 29 June - 3 July 2026
 * **Topological Deep Learning Workshop.** Fribourg. [Poster Presentation](https://workshop.topology.rocks/). 22-26 June 2026
 * **Helmholtz AI Conference 2026.** Munich. [Poster Presentation](https://www.conftool.pro/haicon26/sessions.php). 8-11 June 2026
 * **Munich School for Data Science (MUDS) Seminar.** Munich. [Contributed Talk](https://www.mu-ds.de/). 29 April 2026
